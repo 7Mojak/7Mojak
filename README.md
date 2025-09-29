@@ -1,15 +1,20 @@
-# Olá!  Seja bem-vindo(a) ao meu perfil!
+<h1 align="center">Oi! Eu sou o Gustavo Mello Branco</h1>
+<p align="center">Desenvolvedor de software e entusiasta de tecnologia!</p>
 
-Sou um aprendiz de desenvolvimento apaixonado por tecnologia e sempre em busca de novos aprendizados. 🚀  
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
- Atualmente, estou aprimorando minhas habilidades em:  
-- **Linguagens de Programação**: HTML, CSS, JavaScript e Python  
-- **Versionamento de Código**: Git e GitHub  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
- Estou em formação contínua e buscando oportunidades para aplicar meu conhecimento em projetos reais.  
-
- Interesso-me por projetos colaborativos e desafios que ajudem a resolver problemas do dia a dia com tecnologia.  
-
- Entre em contato comigo: [seu email ou link para redes sociais].  
-
- "O aprendizado é contínuo, e cada linha de código é uma nova oportunidade para crescer."  
+<p align="center">
+  <i>Sou apaixonado por criar soluções eficientes e aprender novas tecnologias!</i>
+</p>
