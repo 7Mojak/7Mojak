@@ -1,4 +1,4 @@
-# 👩🏻‍💻 𝘎𝘶𝘴𝘵𝘢𝘷𝘰 𝘔𝘦𝘭𝘭𝘰
+#  𝘎𝘶𝘴𝘵𝘢𝘷𝘰 𝘔𝘦𝘭𝘭𝘰
 
 **`Desenvolvedor Backend`**
 ---
@@ -14,6 +14,4 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
-### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Mojak&show_icons=true&theme=radical&locale=pt-br)
 </p>
